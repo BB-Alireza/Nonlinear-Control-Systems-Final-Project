@@ -1,5 +1,9 @@
 # Nonlinear-Control-Systems-Final-Project
 
+## By: [Alireza Ansari](https://www.linkedin.com/in/alireza-ansaree/)
+
+## Supervisor: [Dr. Farzaneh Abdollahi](https://scholar.google.com/citations?user=nmZp2s8AAAAJ&hl=en)
+
 Sliding mode control is a powerful control approach that has been widely used in engineering applications. In sliding mode control, a sliding surface is defined to separate the behavior of the system into two states: the sliding state and the non-sliding state. The controller is designed in such a way that it guides the system towards the sliding surface and then keeps it on the surface and benefits from good stability and robustness against external disturbances to the system. Sliding mode control has been applied to various engineering systems, including mechanical systems, electrical systems, and aerospace systems, etc. Its advantages include robustness against uncertainties and disturbances, as well as the ability to control systems with nonlinear dynamics. However, sliding mode control has some limitations, such as the destructive effect of high-frequency chattering, which can lead to wear and erosion in mechanical systems and control signal discontinuity.
 
 
